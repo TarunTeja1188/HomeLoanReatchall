@@ -1,0 +1,70 @@
+.nav1 {
+    background-color: #f54813;
+}
+.nav2 {
+    background-color: white;
+}
+.nav2 a {
+    color: black;
+}
+.nav2 a:hover {
+    color: #f54813;
+}
+.nav2 ul a{
+    font-size: 20px;
+    font-weight: 500;
+}
+.navbar-brand:hover {
+    transform: scale(1.3);
+}
+.carousel-inner .carousel-caption {
+    text-align: left;
+    top: 35%;
+    left: 7%;
+}
+.text-center::after {
+    content: "";
+    display: flex;
+    width: 100px;
+    height: 3px;
+    margin: 20px auto 0px;
+    background-color:#f54813;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.text-center h5 {
+    letter-spacing: 2px;
+}
+.container .card .card-body i {
+    color: #f5511e;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+.container .card .card-header i {
+    color: #f5511e;
+    font-size: 30px;
+    padding: 5px;
+}
+#news .row .col-md-4 .card .card-body h3 {
+    color: #f54813;
+}
+footer {
+    background-color: black;
+}
+footer h2 {
+    color: white;
+}
+footer .input-group span {
+    background-color: #f54813;
+    border: none;
+}
+.foot {
+    background-color: #272727;
+    color: white;
+    align-items: center;
+}
+.icons a {
+    padding: 0px 7px;
+    color: white;
+
+}
